@@ -16,6 +16,7 @@
 ![Jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery)
 ###
 ![Vite](https://img.shields.io/badge/VITE-8711C1?style=for-the-badge&logo=vite&logoColor=FCF223&color=8711C1)
+![Axios](https://img.shields.io/badge/axios%20-%20%23373747?style=for-the-badge&logo=axios&logoColor=%23CDCDCD)
 ![Webpack](https://img.shields.io/badge/webpack-%232B3A42?style=for-the-badge&logo=webpack)
 ![Babel](https://img.shields.io/badge/babel-%233B3C38?style=for-the-badge&logo=babel)
 ![Jest](https://img.shields.io/badge/jest.js-white?style=for-the-badge&logo=jest&logoColor=%2318DF16&color=%23963D57)
