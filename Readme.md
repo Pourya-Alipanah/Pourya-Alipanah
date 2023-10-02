@@ -1,6 +1,6 @@
 ### Hello 👋
 ### I'm Pourya
-### I plan to become a good React.js developer.
+### I plan to become a good FrontEnd developer.
 ### Along the way, I have acquired these skills for now:
 
 ###
@@ -11,6 +11,8 @@
 ![Bootstrap 5](https://img.shields.io/badge/bootstrap_5-702CF5?style=for-the-badge&logo=bootstrap&logoColor=212529)
 ###
 ![Javascript](https://img.shields.io/badge/javascript-FCDC00?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js%20-%20black?style=for-the-badge&logo=react&color=%2323272F)
+![Redux.js](https://img.shields.io/badge/redux.js%20-%20black?style=for-the-badge&logo=redux&logoColor=%23593D88&color=%23242526)
 ![Jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery)
 ###
 ![Vite](https://img.shields.io/badge/VITE-8711C1?style=for-the-badge&logo=vite&logoColor=FCF223&color=8711C1)
