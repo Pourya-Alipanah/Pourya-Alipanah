@@ -22,4 +22,5 @@
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Firebase](https://img.shields.io/badge/firebase%20-%20black?style=for-the-badge&logo=firebase&logoColor=%23FFCC31&color=%231A73E8)
 
