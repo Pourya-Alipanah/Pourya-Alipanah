@@ -12,6 +12,7 @@
 ### JS Library and Frameworks :
 ![React.js](https://img.shields.io/badge/React.js%20-%20black?style=for-the-badge&logo=react&color=%2323272F)
 ![Redux.js](https://img.shields.io/badge/redux.js%20-%20black?style=for-the-badge&logo=redux&logoColor=%23593D88&color=%23242526)
+![React Query](https://img.shields.io/badge/react%20query%20-%20white?style=for-the-badge&logo=react%20query&logoColor=%23EF4543&color=%23111827)
 ![React Router](https://img.shields.io/badge/React%20Router%20-white?style=for-the-badge&logo=ReactRouter&color=%23121212)
 ![Jquery](https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery)
 
@@ -28,5 +29,6 @@
 ![Npm](https://img.shields.io/badge/Npm-CB3837?logo=Npm&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge)
 ![Github](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)
+![Supabase](https://img.shields.io/badge/supabase%20-%20white?style=for-the-badge&logo=supabase&color=%231C1C1C)
 ![Firebase](https://img.shields.io/badge/firebase%20-%20black?style=for-the-badge&logo=firebase&logoColor=%23FFCC31&color=%231A73E8)
 
